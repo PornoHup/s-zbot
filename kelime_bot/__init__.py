@@ -15,9 +15,9 @@ LOGGER = logging.getLogger(__name__)
 
 
 # Hesap
-API_ID = getenv("API_ID")
+API_ID = .
 API_HASH = getenv("API_HASH")
-TOKEN = getenv("TOKEN")
+TOKEN = "6221149617:AAEGewuVcP-P1MTtGPOy4rDMwVEkODzTpLQ" 
 USERNAME = getenv("USERNAME")
 OWNER_ID = getenv("OWNER_ID", "")
 
